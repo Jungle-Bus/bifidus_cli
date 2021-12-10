@@ -1,0 +1,40 @@
+route_id,name,destination,origin,operator,network
+r1688442,Koothattukulam-kavana-Vazhakkulam Road,,,,
+r2123672,Marangattupilly - Koothattukulam Road,,,,
+r2123674,Ramapuram - Koothattukulam Road,,,,
+r2123682,Ponkunnam - Koothattukulam Road,,,,
+r2147530,,,,,
+r2197355,Pala - Vaikom Route,,,,
+r2197377,Pala - Kallara Route,,,Chilanka,
+r3093529,Mattancherry,,,Private Red Bus,
+r3093530,Kumbalangi,,,Private Red Bus,
+r3093531,Chellanam,,,Private Red Bus,
+r3093532,Fortkochi bus route,,,Private Red Bus,
+r3093533,Edakochi,,,Private Red Bus,
+r3093534,Perumpadappu,,,Private Red Bus,
+r10403637,High Court → North Paravur,High Court,North Paravur,Private Owners,Mofussil Kochi bus
+r10519399,North Paravur → Vypin → High Court,North Paravur,High Court,Private Owners,Mofussil Kochi bus
+r10523910,High Court → Vypin → North Paravur,High Court,North Paravur,Private Owners,Mofussil Kochi bus
+r10523911,North Paravur → Ernakulam,North Paravur,High Court (Ernakulam),Private Owners,Mofussil Kochi bus
+r10524079,Manjanakkad => Ernakulam,Manjanakkad,Ernakulam,,
+r10524080,Ernakulam => Manjanakkad,Ernakulam,Manjanakkad,,private
+r10524210,Ro Ro: Vypin → Fort Kochi,Vypin,Fort Kochi,KSWTD,Kochi city boat
+r10524211,Ro Ro: Fort Kochi → Vypin,Fort Kochi,Vypin,KSWTD,Kochi city boat
+r10525435,Nedungad → High Court,Nedungad,High Court,Private Owners,Mofussil Kochi bus
+r10525436,Ernakulam - Vypin - Njarakkal - Nedungad,Ernakulam,Nedungad,Private Owners,Mofussil Kochi bus
+r10528761,Munambam - N Paravur,Munambam,N Paravur,Private,Private
+r10528762,N Paravur - Munambam,N Paravur,Munambam,,Private
+r10592287,Munambam → Vypin → High Court,Munambam,High Court (Ernakulam),Private Owners,Mofussil Kochi bus
+r10592288,High Court → Vypin → Munambam,High Court (Ernakulam),Munambam,Private Owners,Mofussil Kochi bus
+r10659777,High Court → Vytilla Mobility Hub,High Court,Vytilla Mobility Hub,Private Owners,City bus
+r12376660,N Paravur =>Kottuvally South,N Paravur,Kottuvally South,,Private
+r12376735,Kottuvally South => N Paravur,Kottuvally South,N Paravur,,Private
+r12740709,Ernakulam Jetty => N Paravur,Ernakulam Jetty,N Paravur,,KSRTC
+r12759262,N.Paravur - varapuzha - Container Road- ernakulam,N.Paravur,Ernakulam,KSRTC,KSRTC
+r13478964,North Paravur → Ezhikkara,North Paravur,Ezhikkara,Private Owners,Mofussil Kochi bus
+r13479120,Ezhikkara → North Paravur,Ezhikkara,North Paravur,Private Owners,Mofussil Kochi bus
+r13489072,Edakochi → Fort Kochi,Edakochi,Fort Kochi,Private Owners,Kochi city bus
+r13489398,Fort Kochi → Edakochi,Fort Kochi,Edakochi,Private Owners,Kochi city bus
+r13497146,High Court → Panambukad (Vallarpadam),High Court,Panambukad (Vallarpadam),Private Owners,Mofussil Kochi bus
+r13497384,Panambukad (Vallarpadam) → High Court,Panambukad (Vallarpadam),High Court,Private Owners,Mofussil Kochi bus
+r13498564,Vypin → Ernakulam,Vypin,Ernakulam,KSWTD,Kochi city boat
